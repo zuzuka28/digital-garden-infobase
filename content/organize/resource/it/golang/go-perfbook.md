@@ -7,8 +7,10 @@ publish: true
 tags:
 - source/article
 title: Go Perfbook
-updated: 1714121309349
+updated: 1714596274289
 ---
+<https://github.com/dgryski/go-perfbook> snapshot
+
 # Writing and Optimizing Go code
 
 This document outlines best practices for writing high-performance Go code.
