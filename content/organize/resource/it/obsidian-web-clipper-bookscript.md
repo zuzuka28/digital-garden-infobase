@@ -4,9 +4,9 @@ description: ""
 id: mz9xr6hh6e3txkb5ilwhuy3
 publish: true
 title: Obsidian Web Clipper Bookscript
-updated: 1714121309351
+updated: 1714586017627
 ---
-Добавить этот скрипт как закладку в браузере
+[[capture/source/app/bookmarklet-maker|Добавить этот скрипт как закладку в браузере]]
 
 <https://gist.github.com/kepano/90c05f162c37cf730abb8ff027987ca3>
 
