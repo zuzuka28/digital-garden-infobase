@@ -7,8 +7,10 @@ opinionFor:
 - '[[organize/resource/it/golang/pkg/swagger]]'
 publish: true
 title: Swagger
-updated: 1714587996477
+updated: 1714725639187
 ---
+[[organize/resource/it/golang/pkg/swagger|Мысли по поводу использования swagger в golang]]
+
 ## Генерация кода на основе Swagger
 
 Сомнительно, но окэй..
