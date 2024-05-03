@@ -5,8 +5,24 @@ description: |
 id: ok0ifnlx94mamtvur7jimy1
 publish: true
 title: Go
-updated: 1714594504198
+updated: 1714758145612
 ---
+## Рестораны Москва
+
+#source/location https://www.stardogs.ru/address
+
+#source/location https://moscowcentralmarket.ru
+
+#source/location https://www.restoclub.ru/msk/place/kook
+
+#source/location https://jpan.moscow
+
+#source/location https://www.restoclub.ru/msk/place/chicko-1
+
+#source/location https://sempre.moscow
+
+#source/location https://dizengof99.com
+
 ## Бары Москва
 
 #source/location Кот Шрёдингера на большой дмитровке
