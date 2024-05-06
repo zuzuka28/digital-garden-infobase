@@ -9,7 +9,7 @@ publish: true
 title: Swagger
 updated: 1714725639187
 ---
-[[organize/resource/it/golang/pkg/swagger|Мысли по поводу использования swagger в golang]]
+[[organize/resource/it/lang/golang/pkg/swagger|Мысли по поводу использования swagger в golang]]
 
 ## Генерация кода на основе Swagger
 

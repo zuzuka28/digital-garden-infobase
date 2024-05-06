@@ -5,7 +5,7 @@ description: |
 id: jvq5nprug7550v6ltnug6hy
 publish: true
 title: Dendron Workflow
-updated: 1714121309339
+updated: 1714993659625
 ---
 ## Ресурсы
 
@@ -22,6 +22,6 @@ updated: 1714121309339
 В Cookbook есть такая идея:
 #source/link <https://wiki.dendron.so/notes/401c5889-20ae-4b3a-8468-269def4b4865/#analyze-notes-using-elasticsearch>
 
-Идея заключается в том, чтобы использовать экспорт из dendron в JSON и импортировать результат в ElasticSearch, чтобы искать по заметкам.
+Идея заключается в том, чтобы использовать экспорт из dendron в JSON и импортировать результат в [[organize/resource/it/db/elasticsearch|Elasticsearch]], чтобы искать по заметкам.
 
 Можно подумать на тему того, что еще можно делать с JSON экспортом и импортом, раз есть такая возможность. Мне кажется это главный момент, за который можно зацепиться при разработке прикладных программ на основе dendron.
