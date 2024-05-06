@@ -5,13 +5,13 @@ description: |
 id: 2x1hrwzgk44rlzzm71m9ylb
 publish: true
 title: Music Land API
-updated: 1714990847552
+updated: 1714995080063
 ---
 ## Цель
 
 Создать API для стриминга музыки, см. Spotify 
 
-Получить срез навыка написания API с использованием [[organize/resource/it/golang|Golang]]
+Получить срез навыка написания API с использованием [[organize/resource/it/lang/golang|Golang]]
 
 ## Контекст
 
