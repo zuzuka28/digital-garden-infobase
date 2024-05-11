@@ -5,7 +5,7 @@ description: |
 id: ok0ifnlx94mamtvur7jimy1
 publish: true
 title: Go
-updated: 1714758145612
+updated: 1715354559572
 ---
 ## Рестораны Москва
 
@@ -34,3 +34,9 @@ updated: 1714758145612
 #source/location INSIDER Bar
 
 #source/location Собаки в тумане
+
+## Развлечения Москва
+
+#source/location Кинотеатр Сатурн Свиблово
+
+#source/location Бильярд-клуб 15 Шар
