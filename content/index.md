@@ -4,8 +4,10 @@ description: ""
 id: zkyp47jzdnjndevwdsq91hu
 publish: true
 title: Root
-updated: 1714328510347
+updated: 1715768969487
 ---
 ## Digital Garden
 
 Это место - коллекция моих личных записей и заметок.
+
+> [!danger] Здесь водятся драконы
