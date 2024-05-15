@@ -5,7 +5,7 @@ description: |
 id: 2x1hrwzgk44rlzzm71m9ylb
 publish: true
 title: Music Land API
-updated: 1714995080063
+updated: 1715760440362
 ---
 ## Цель
 
@@ -57,6 +57,6 @@ updated: 1714995080063
 
 Для хранения файлов выбрано объектное хранилище [[organize/resource/it/object-storage/minio|Minio]] с клиентом [[organize/resource/it/lang/golang/pkg/minio|Minio]] и поддержкой [[organize/resource/it/object-storage/s3|S3]]
 
-## Обзор
-
 Репозиторий тут - <https://github.com/zuzuka28/music_land_api>
+
+## Обзор

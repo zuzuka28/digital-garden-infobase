@@ -7,8 +7,8 @@ publish: true
 tags:
 - source/app
 title: Hipotisis
-updated: 1715434405585
+updated: 1715766447633
 ---
 <https://web.hypothes.is> - FOSS инструмент для аннотирования любого контента и коллаборации.
 
- <https://github.com/hypothesis/h> - репозиторий
+<https://github.com/hypothesis/h> - репозиторий
