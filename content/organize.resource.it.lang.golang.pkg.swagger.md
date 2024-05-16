@@ -7,7 +7,7 @@ publish: true
 title: Swagger
 updated: 1715766354347
 ---
-Библиотеки для [[organize/resource/it/swagger]]
+Библиотеки для [[organize.resource.it.swagger]]
 
 ## <https://github.com/swaggo/swag>
 
