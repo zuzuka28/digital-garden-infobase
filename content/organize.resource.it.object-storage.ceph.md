@@ -7,6 +7,7 @@ publish: true
 title: Ceph
 updated: 1714993308562
 ---
+
 <https://ceph.io/en> - FOSS распределенное отказоустойчивое хранилище
 
 ## Заметки

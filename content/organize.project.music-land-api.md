@@ -7,6 +7,7 @@ publish: true
 title: Music Land API
 updated: 1715760440362
 ---
+
 ## Цель
 
 Создать API для стриминга музыки, см. Spotify

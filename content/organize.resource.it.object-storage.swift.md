@@ -7,4 +7,5 @@ publish: true
 title: Swift
 updated: 1714993349535
 ---
+
 <https://docs.openstack.org/swift/latest/> - объектное и blob хранилище 

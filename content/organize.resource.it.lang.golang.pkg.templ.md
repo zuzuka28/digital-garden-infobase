@@ -7,4 +7,5 @@ publish: true
 title: Templ
 updated: 1714590201940
 ---
+
 <https://github.com/a-h/templ> - Библиотека для htmx темплейтов и фронтенда на golang

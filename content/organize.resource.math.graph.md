@@ -6,4 +6,5 @@ publish: true
 title: Graph
 updated: 1714121309352
 ---
+
 [[assets/graph.excalidraw]]

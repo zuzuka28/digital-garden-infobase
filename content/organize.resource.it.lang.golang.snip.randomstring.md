@@ -7,6 +7,7 @@ publish: true
 title: Randomstring
 updated: 1714983372103
 ---
+
 Генерация случайной строки из n символов
 
 ```go

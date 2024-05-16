@@ -6,6 +6,7 @@ publish: true
 title: Meta Logger
 updated: 1714131005116
 ---
+
 ```py
 import abc
 import enum

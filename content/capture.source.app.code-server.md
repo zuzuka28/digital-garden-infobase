@@ -9,6 +9,7 @@ tags:
 title: Code Server
 updated: 1714594773151
 ---
+
 `code-server` VSC selfhost server for remote access
 
 selfhost сервер VSC, чтобы к ней был доступ с любой машины, где есть интернет 

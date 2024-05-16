@@ -6,6 +6,7 @@ publish: true
 title: Simplex Method
 updated: 1714121309354
 ---
+
 [[assets/simplex_tables_algorithm.excalidraw]]
 
 [[assets/simplex_dual_problem_algorithm.excalidraw]]

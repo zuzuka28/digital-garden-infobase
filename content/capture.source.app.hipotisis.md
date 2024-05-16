@@ -9,6 +9,7 @@ tags:
 title: Hipotisis
 updated: 1715766447633
 ---
+
 <https://web.hypothes.is> - FOSS инструмент для аннотирования любого контента и коллаборации.
 
 <https://github.com/hypothesis/h> - репозиторий

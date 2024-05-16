@@ -9,5 +9,6 @@ tags:
 title: Bookmarklet Maker
 updated: 1714587083652
 ---
+
 <https://caiorss.github.io/bookmarklet-maker/> - можно использовать данную утилиту для сохранения JS скриптов и автоматизации работы в браузере
 

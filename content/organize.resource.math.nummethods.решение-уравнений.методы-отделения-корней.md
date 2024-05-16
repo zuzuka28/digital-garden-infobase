@@ -7,4 +7,5 @@ publish: true
 title: Методы Отделения Корней
 updated: 1714727418656
 ---
+
 [[assets/методы_отделения_корней.excalidraw]]

@@ -9,6 +9,7 @@ tags:
 title: Nb
 updated: 1714121309336
 ---
+
 ## Setup github sync
 
 Remote:

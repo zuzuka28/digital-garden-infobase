@@ -9,6 +9,7 @@ tags:
 title: Go Perfbook
 updated: 1714596274289
 ---
+
 <https://github.com/dgryski/go-perfbook> snapshot
 
 # Writing and Optimizing Go code

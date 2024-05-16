@@ -6,4 +6,5 @@ publish: true
 title: Perti Network
 updated: 1714121309353
 ---
+
 [[assets/petri_networks.excalidraw]]

@@ -9,4 +9,5 @@ tags:
 title: Interpreterbook
 updated: 1714590126000
 ---
+
 <https://interpreterbook.com/> - книга посвященная написанию интерпритатора

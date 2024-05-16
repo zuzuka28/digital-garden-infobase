@@ -6,6 +6,7 @@ publish: true
 title: Minio
 updated: 1714993522801
 ---
+
 <https://min.io> - объектное хранилище
 
 Простейший вариант для разработки, легко поднимается standalone через docker-compose

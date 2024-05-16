@@ -6,6 +6,7 @@ publish: true
 title: Obsidian Web Clipper Bookscript
 updated: 1714586017627
 ---
+
 [[capture.source.app.bookmarklet-maker|Добавить этот скрипт как закладку в браузере]]
 
 <https://gist.github.com/kepano/90c05f162c37cf730abb8ff027987ca3>

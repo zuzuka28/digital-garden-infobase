@@ -8,6 +8,7 @@ tags:
 title: Too Many Lists
 updated: 1714591198625
 ---
+
 <https://rust-unofficial.github.io/too-many-lists/> - изучение Rust на списках
 
 Очень много интересной информации по проектированию структур данных

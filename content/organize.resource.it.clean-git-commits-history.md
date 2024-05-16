@@ -7,6 +7,7 @@ publish: true
 title: Clean Git Commits History
 updated: 1714121309345
 ---
+
 1. Checkout/create orphan branch (this branch won't show in `git branch` command):
 
 ```bash

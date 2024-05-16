@@ -6,6 +6,7 @@ publish: true
 title: Xorm
 updated: 1714993302214
 ---
+
 <https://xorm.io> 
 
 [[organize.resource.it.orm|ORM]] библиотека, поддерживающая разные диалекты SQL.

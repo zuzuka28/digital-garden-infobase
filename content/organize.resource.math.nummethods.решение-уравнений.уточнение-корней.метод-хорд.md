@@ -7,4 +7,5 @@ publish: true
 title: Метод Хорд
 updated: 1714727826611
 ---
+
 [[assets/уточнение_корней_методом_хорд.excalidraw]]

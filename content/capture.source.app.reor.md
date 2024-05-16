@@ -9,4 +9,5 @@ tags:
 title: Reor
 updated: 1714590889468
 ---
+
 <https://github.com/reorproject/reor> - приложение для ведения заметок, которое держит AI под капотом

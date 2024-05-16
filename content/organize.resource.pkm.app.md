@@ -7,6 +7,7 @@ publish: true
 title: App
 updated: 1715434723245
 ---
+
 - [[capture.source.app.nb|nb]]
 - [[capture.source.app.logseq|Logseq]]
 - [[capture.source.app.hipotisis|hipotis.is]]

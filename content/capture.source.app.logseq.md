@@ -9,4 +9,5 @@ tags:
 title: Logseq
 updated: 1714586357334
 ---
+
 <https://logseq.com> - highlighter and journaling tool

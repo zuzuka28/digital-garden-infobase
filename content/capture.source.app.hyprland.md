@@ -9,4 +9,5 @@ tags:
 title: Hyprland
 updated: 1714591025106
 ---
+
 <https://hyprland.org> - тайловый менеджер для Arch, linuxporn

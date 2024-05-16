@@ -7,6 +7,7 @@ publish: true
 title: Pkm
 updated: 1715865691892
 ---
+
 Идея информационного сада - [[organize.resource.pkm.digital-garden]]
 
 - [[organize.resource.pkm.я-люблю-учиться]] - прелюдия, размышления о том, почему я хочу вырастить свой сад.

@@ -7,6 +7,7 @@ publish: true
 title: Dendron Workflow
 updated: 1714993659625
 ---
+
 ## Ресурсы
 
 Нашел такое описание workflow для работы с PKM:

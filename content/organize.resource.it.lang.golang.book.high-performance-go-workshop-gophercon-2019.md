@@ -9,6 +9,7 @@ tags:
 title: High Performance Go Workshop Gophercon 2019
 updated: 1714589421452
 ---
+
 <https://dave.cheney.net/high-performance-go-workshop/gophercon-2019.html>
 
 Данная книжка содержит некоторую информацию о том, как можно отлаживать программы на golang.

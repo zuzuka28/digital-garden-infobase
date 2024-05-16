@@ -9,5 +9,6 @@ tags:
 title: Quartz
 updated: 1714588153507
 ---
+
 <https://github.com/jackyzha0/quartz> - SSG like Obsidian Publish, really
   pretty!

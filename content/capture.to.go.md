@@ -7,6 +7,7 @@ publish: true
 title: Go
 updated: 1715354559572
 ---
+
 ## Рестораны Москва
 
 #source/location https://www.stardogs.ru/address

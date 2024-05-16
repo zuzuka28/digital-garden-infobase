@@ -7,6 +7,7 @@ publish: true
 title: To
 updated: 1715025707437
 ---
+
 #source/article <https://go.dev/talks/2013/bestpractices.slide#36>
 
 #source/video <https://www.youtube.com/watch?v=G-lhh_1XNcI> - видео конференция о том, как сделать код на Golang красивее
