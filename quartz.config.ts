@@ -12,7 +12,8 @@ const config: QuartzConfig = {
     enableSPA: true,
     enablePopovers: true,
     analytics: {
-      provider: "plausible",
+      provider: "goatcounter",
+      websiteId: "zuzuka28",
     },
     locale: "en-US",
     baseUrl: "https://zuzuka28.github.io/digital-garden-infobase/",
