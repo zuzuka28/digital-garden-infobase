@@ -8,8 +8,8 @@ title: App
 updated: 1715434723245
 ---
 
-- [[capture.source.app.nb|nb]]
-- [[capture.source.app.logseq|Logseq]]
-- [[capture.source.app.hipotisis|hipotis.is]]
-- [[capture.source.app.raindropio|raindrop.io]]
-- [[capture.source.app.omnivore|omnivore.app]]
+- [[organize.resource.pkm.app.nb|nb]]
+- [[organize.resource.pkm.app.logseq|Logseq]]
+- [[organize.resource.pkm.app.hipotisis|hipotis.is]]
+- [[organize.resource.pkm.app.raindropio|raindrop.io]]
+- [[organize.resource.pkm.app.omnivore|omnivore.app]]

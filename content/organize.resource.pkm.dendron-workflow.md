@@ -14,9 +14,9 @@ updated: 1714993659625
 #source/link <https://mstempl.netlify.app/post/pkm-websites/>.
 Чел использует несколько инструментов для ведения PKM
 
-- Захватывает новые статьи через [[capture.source.app.omnivore|Omnivore]]
-- Редактирует в [[capture.source.app.logseq|Logseq]]
-- Управление ссылками в [[capture.source.app.nb|nb]]
+- Захватывает новые статьи через [[organize.resource.pkm.app.omnivore|Omnivore]]
+- Редактирует в [[organize.resource.pkm.app.logseq|Logseq]]
+- Управление ссылками в [[organize.resource.pkm.app.nb|nb]]
 
 ## Поиск по заметкам
 
