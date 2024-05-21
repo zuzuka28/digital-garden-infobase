@@ -6,8 +6,9 @@ id: rzbcbw0f1glbmlamyndlqj3
 publish: true
 tags:
 - source/book
+- stub
 title: Pcgbook
-updated: 1714591456732
+updated: 1716290910151
 ---
 
 Книга называется: 

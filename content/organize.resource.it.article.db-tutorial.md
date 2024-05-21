@@ -6,8 +6,9 @@ id: b02swgcri0tajm119vid69f
 publish: true
 tags:
 - source/article
+- stub
 title: Db Tutorial
-updated: 1714589002918
+updated: 1716291121218
 ---
 
 <https://cstack.github.io/db_tutorial/> - пошаговый туториал по тому, как сделать свою базу данных

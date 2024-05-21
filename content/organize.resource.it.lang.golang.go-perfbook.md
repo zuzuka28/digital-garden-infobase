@@ -6,8 +6,9 @@ id: tpjkyo94t4audrlx0a8mx7i
 publish: true
 tags:
 - source/article
+- stub
 title: Go Perfbook
-updated: 1714596274289
+updated: 1716290923559
 ---
 
 <https://github.com/dgryski/go-perfbook> snapshot

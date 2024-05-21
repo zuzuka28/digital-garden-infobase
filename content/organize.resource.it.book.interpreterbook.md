@@ -6,8 +6,9 @@ id: zdz15sroavbei03gk1u3zip
 publish: true
 tags:
 - source/book
+- stub
 title: Interpreterbook
-updated: 1714590126000
+updated: 1716291118895
 ---
 
 <https://interpreterbook.com/> - книга посвященная написанию интерпритатора
