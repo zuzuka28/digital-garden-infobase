@@ -5,7 +5,7 @@ description: |
 id: 7ynlwv49r48kl3xk72m4hcu
 publish: true
 title: To
-updated: 1715025707437
+updated: 1716586342649
 ---
 
 #source/article <https://go.dev/talks/2013/bestpractices.slide#36>
@@ -19,3 +19,5 @@ updated: 1715025707437
 #source/video <https://www.youtube.com/watch?v=ZTJcaP4G4JM> - описание работы каналов в golang
 
 #source/link <https://go.dev/wiki/SliceTricks> - шпаргалка по слайсам в golang
+
+#source/article https://peter.bourgon.org/go-best-practices-2016/ - рекомендации к коду на golang
