@@ -2,10 +2,10 @@
 date: "2024-05-01T23:02:53+03:00"
 description: |
   список фильмов, которые можно посмотреть
-id: qmfwyjwixfdtvyffzi7m912
+id: ao16ugeuk9m7d32vlekwamg
 publish: true
 title: Watch
-updated: 1716758305000
+updated: 1720340856183
 ---
 
 #source/movie Экспансия
@@ -37,3 +37,11 @@ updated: 1716758305000
 #source/movie/anime Авантюристы, которые не верят в человечество, спасут мир
 
 #source/movie/anime А ты думал, что твоя жена в онлан-игре на самом деле не девушка?
+
+#source/movie/anime  Шоколад Купидона
+
+#source/movie Война будущего
+
+#source/movie Шоу восьми
+
+#source/movie/anime <https://shikimori.one/animes/53730-sokushi-cheat-ga-saikyou-sugite-isekai-no-yatsura-ga-marude-aite-ni-naranai-n-desu-ga>

@@ -2,7 +2,7 @@
 date: "2024-05-05T19:31:34+03:00"
 description: |
   Генерация случайной строки из n символов
-id: 1f6vobxkuts5gzklzt67wt3
+id: nqa442d6362d6evlea0plax
 publish: true
 title: Randomstring
 updated: 1714983372103

@@ -2,7 +2,7 @@
 date: "2024-04-19T12:32:19+03:00"
 description: |
   <https://github.com/xwmx/nb> is a command line and local web note‑taking, bookmarking, archiving, and knowledge base application
-id: 66525tx97v3px4ymddj6ad6
+id: wadgeynunwaiaji7h0w63vc
 publish: true
 tags:
 - source/app

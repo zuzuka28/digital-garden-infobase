@@ -2,7 +2,7 @@
 date: "2024-05-01T22:00:44+03:00"
 description: |
   <https://interpreterbook.com/> - книга посвященная написанию интерпритатора
-id: zdz15sroavbei03gk1u3zip
+id: zb012lxay21imcnktdhoe9f
 publish: true
 tags:
 - source/book

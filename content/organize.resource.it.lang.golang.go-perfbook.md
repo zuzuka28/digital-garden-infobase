@@ -2,7 +2,7 @@
 date: "2024-04-19T15:22:54+03:00"
 description: |
   Thoughts about performance and optimizations. Copy of <https://github.com/dgryski/go-perfbook/blob/master/performance.md>.
-id: tpjkyo94t4audrlx0a8mx7i
+id: plcf3idfuxevgbpdov2tqfn
 publish: true
 tags:
 - source/article

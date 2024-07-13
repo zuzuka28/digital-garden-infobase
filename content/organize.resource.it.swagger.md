@@ -1,7 +1,7 @@
 ---
 date: "2024-05-15T12:15:06+03:00"
 description: ""
-id: 459j4e4l9ejtrk4x6j8v4rx
+id: fevwiksqdg4uyne28ugo6cu
 publish: true
 title: Swagger
 updated: 1715767706234

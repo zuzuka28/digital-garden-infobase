@@ -2,7 +2,7 @@
 date: "2024-04-15T22:56:22+03:00"
 description: |
   Библиотеки для работы с OpenAPI
-id: z0rakhj0ipb0fb7y5otb384
+id: huu7aklh6ny8ivm9jzb3d7n
 publish: true
 title: Swagger
 updated: 1715766354347

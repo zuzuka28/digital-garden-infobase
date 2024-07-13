@@ -2,7 +2,7 @@
 date: "2024-05-01T23:11:30+03:00"
 description: |
   code-server - VSC selfhost server for remote access
-id: jg6etb7aoim0tb949a29mjp
+id: qxegmwdtfek2ldagrmtndel
 publish: true
 tags:
 - source/app

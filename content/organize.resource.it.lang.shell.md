@@ -1,7 +1,7 @@
 ---
 date: "2024-05-18T14:03:19+03:00"
 description: ""
-id: vuy9wftd6mr4j524o0c7hvv
+id: 1sg4wbi77d87172cacw4owz
 publish: true
 title: Shell
 updated: 1716037904821

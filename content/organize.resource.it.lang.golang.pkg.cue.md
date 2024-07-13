@@ -2,7 +2,7 @@
 date: "2024-05-01T22:06:21+03:00"
 description: |
   <https://cuelang.org/> - язык валидации схем
-id: lbsezctk4sqyc5f9wjyqwll
+id: bntwe7c86smy7w645sopbga
 publish: true
 title: Cue
 updated: 1714590567880

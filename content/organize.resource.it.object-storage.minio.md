@@ -1,7 +1,7 @@
 ---
 date: "2024-05-06T13:45:00+03:00"
 description: ""
-id: n8nki5pjfrsoax7nlv1yljd
+id: 0i2m6lcwq9fo6jdaf29wr6r
 publish: true
 title: Minio
 updated: 1714993522801

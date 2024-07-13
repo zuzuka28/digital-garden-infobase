@@ -2,7 +2,7 @@
 date: "2024-05-01T21:30:50+03:00"
 description: |
   <https://www.jflap.org> - инструмент для исследования формальных грамматик
-id: 9xketxeyd5l28ul0qsn3ia7
+id: sggtkvs59gjxtxx91xel8kv
 publish: true
 tags:
 - source/app

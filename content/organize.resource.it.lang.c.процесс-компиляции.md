@@ -2,7 +2,7 @@
 date: "2024-05-03T12:22:43+03:00"
 description: |
   описание стадий компиляции программ в C
-id: 6fegkmqbpkavvh2h9iytq5t
+id: cq1mh2ormhipmf7r0lwe58z
 publish: true
 title: Процесс Компиляции
 updated: 1714728214510

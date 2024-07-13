@@ -2,7 +2,7 @@
 date: "2024-05-06T13:52:22+03:00"
 description: |
   OpenStack Swift - объектное хранилище
-id: 0mkoq81ldty8ywg4zc606gs
+id: 1f7eumvgyuld4fladr1cp7j
 publish: true
 title: Swift
 updated: 1714993349535

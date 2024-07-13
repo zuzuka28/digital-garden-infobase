@@ -2,7 +2,7 @@
 date: "2024-04-28T18:56:41+03:00"
 description: |
   <https://caiorss.github.io/bookmarklet-maker/> - сохранение скриптов на JS как закладок для автоматизации в браузере
-id: huggw0at6qjdykti2s0wo67
+id: v0o38hfhogkxv1p34venlx6
 publish: true
 tags:
 - source/app

@@ -2,7 +2,7 @@
 date: "2024-05-11T16:33:44+03:00"
 description: |
   <https://raindrop.io> - all-in-one менеджер закладок
-id: 3qr1y8oeys3lnhbkfnopijr
+id: rbq01cb484a6bcgqzqxlpr4
 publish: true
 tags:
 - source/app

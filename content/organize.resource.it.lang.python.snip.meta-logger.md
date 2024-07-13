@@ -1,7 +1,7 @@
 ---
 date: "2024-04-26T14:29:45+03:00"
 description: ""
-id: 7czgi6k3qhmakyzceq8dp7l
+id: 2jknyubl6c28sjf6dx0aw8p
 publish: true
 title: Meta Logger
 updated: 1714131005116

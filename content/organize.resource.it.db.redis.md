@@ -1,7 +1,7 @@
 ---
 date: "2024-05-29T16:03:50+03:00"
 description: ""
-id: jj5sqbp10vprncbjzk91oft
+id: 248ihvhrn22aiufppvwwx5j
 publish: true
 title: Redis
 updated: 1716989399787

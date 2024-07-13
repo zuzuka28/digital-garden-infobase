@@ -1,13 +1,13 @@
 ---
 date: "2024-04-15T20:54:56+03:00"
 description: ""
-id: mz9xr6hh6e3txkb5ilwhuy3
+id: bcoge9lrl8czk11sjn9t6jv
 publish: true
 title: Obsidian Web Clipper Bookscript
 updated: 1714586017627
 ---
 
-[[capture.source.app.bookmarklet-maker|Добавить этот скрипт как закладку в браузере]]
+[[organize.resource.pkm.app.bookmarklet-maker|Добавить этот скрипт как закладку в браузере]]
 
 <https://gist.github.com/kepano/90c05f162c37cf730abb8ff027987ca3>
 

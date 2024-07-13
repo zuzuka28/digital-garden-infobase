@@ -2,7 +2,7 @@
 date: "2024-05-01T22:22:11+03:00"
 description: |
   книга по процедурной генерации контента в играх
-id: rzbcbw0f1glbmlamyndlqj3
+id: qo7aotcpos06ke2gfatoa6m
 publish: true
 tags:
 - source/book

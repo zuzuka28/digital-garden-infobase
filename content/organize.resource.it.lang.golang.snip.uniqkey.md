@@ -2,7 +2,7 @@
 date: "2024-05-05T18:32:21+03:00"
 description: |
   генерация уникальных ключей без коллизий в приложении
-id: n34013f2h8dle8s5dhjtiz4
+id: u1tx5p8srbhx2wpl7i0z11k
 publish: true
 title: Uniqkey
 updated: 1714983375675

@@ -1,7 +1,7 @@
 ---
 date: "2024-05-18T13:32:11+03:00"
 description: ""
-id: bxu33etvtyranv2wqedcw6c
+id: dp2whbri66go5hohcy9cczc
 publish: true
 title: Gopass
 updated: 1716029331433

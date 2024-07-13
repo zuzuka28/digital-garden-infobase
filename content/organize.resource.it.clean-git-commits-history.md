@@ -2,7 +2,7 @@
 date: "2024-04-15T20:52:48+03:00"
 description: |
   snippet for clean git commits history
-id: 5i5mnoc2ukux9rkhh4gzkr5
+id: ofy66lpy528gs5j9ypoozcl
 publish: true
 title: Clean Git Commits History
 updated: 1714121309345

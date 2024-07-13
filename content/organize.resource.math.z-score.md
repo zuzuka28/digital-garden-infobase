@@ -2,7 +2,7 @@
 date: "2024-04-21T22:19:32+03:00"
 description: |
   Z-Score - статистическая оценка, показывающая отклонение значения от нормали.
-id: 3ag21tiv5e25kv25zlfoqgm
+id: h8b8gkqcoftpbd2behpcxdi
 publish: true
 tags:
 - math/statistics

@@ -2,7 +2,7 @@
 date: "2024-04-19T12:01:32+03:00"
 description: |
   идеи по улучшению работы с dendron
-id: jvq5nprug7550v6ltnug6hy
+id: zh3zq33tmi5i4yolfs1jp1f
 publish: true
 title: Dendron Workflow
 updated: 1714993659625

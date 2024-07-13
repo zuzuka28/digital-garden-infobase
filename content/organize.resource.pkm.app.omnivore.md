@@ -2,7 +2,7 @@
 date: "2024-04-19T12:22:28+03:00"
 description: |
   <https://omnivore.app> - Read-Later FOSS app.
-id: rkndmv9drr09s173yi90945
+id: ahq3ouka1yfb2qf01u3mpn4
 publish: true
 tags:
 - source/app

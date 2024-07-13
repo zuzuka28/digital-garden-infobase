@@ -2,10 +2,10 @@
 date: "2024-05-01T23:04:11+03:00"
 description: |
   список мест, которые можно посетить
-id: ok0ifnlx94mamtvur7jimy1
+id: q89zv4sn7yg912divlgnj5u
 publish: true
 title: Go
-updated: 1715354559572
+updated: 1720787305390
 ---
 
 ## Рестораны Москва
@@ -24,6 +24,10 @@ updated: 1715354559572
 
 #source/location https://dizengof99.com
 
+#source/location Вай Мэ https://yandex.ru/maps/org/vay_me_/1361706043/
+
+#source/location https://geralt-tavern.ru/
+
 ## Бары Москва
 
 #source/location Кот Шрёдингера на большой дмитровке
@@ -35,6 +39,8 @@ updated: 1715354559572
 #source/location INSIDER Bar
 
 #source/location Собаки в тумане
+
+#source/location  [Косой Маркс](<https://yandex.ru/maps/org/kosoy_marks/71048418970/?ll=37.656132%2C55.741620&z=16>)
 
 ## Развлечения Москва
 

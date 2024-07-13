@@ -2,7 +2,7 @@
 date: "2024-05-01T22:16:17+03:00"
 description: |
   <https://hyprland.org> - тайловый менеджер для Arch, linuxporn
-id: vqbmb9zdg85b41djxjzeoxo
+id: 1vhnniqn17wmpstibnhgu2r
 publish: true
 tags:
 - source/app

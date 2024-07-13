@@ -2,7 +2,7 @@
 date: "2024-05-01T21:53:02+03:00"
 description: |
   JSX в markdown
-id: pnmrivr91uztt5v4x4kqibf
+id: 2ddmdfdsytqpoixt7npla9u
 publish: true
 title: Mdx
 updated: 1714592715574

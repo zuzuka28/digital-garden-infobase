@@ -2,7 +2,7 @@
 date: "2024-05-01T22:42:32+03:00"
 description: |
   ресурсы, на которых можно потренировать свои навыки программирования
-id: rd9vzrfp4ru9au370umxu66
+id: r87qd2gmob0v9jz5vmxz7r8
 publish: true
 title: Learn Resources
 updated: 1714594717595

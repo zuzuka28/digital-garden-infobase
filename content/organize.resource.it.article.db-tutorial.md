@@ -2,7 +2,7 @@
 date: "2024-05-01T21:40:27+03:00"
 description: |
   <https://cstack.github.io/db_tutorial/> - описание создания базы данных с нуля
-id: b02swgcri0tajm119vid69f
+id: k4yepr3bklps32cj8rt0rep
 publish: true
 tags:
 - source/article

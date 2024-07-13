@@ -3,7 +3,7 @@ aliases:
 - цифровой сад
 date: "2024-05-16T16:10:01+03:00"
 description: ""
-id: 774eaz03zs45i556w8pgm0u
+id: qrqyexf2z7pflwzp2esks69
 publish: true
 title: Digital Garden
 updated: 1715865482616

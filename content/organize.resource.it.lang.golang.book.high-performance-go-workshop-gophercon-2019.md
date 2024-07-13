@@ -2,7 +2,7 @@
 date: "2024-05-01T21:46:50+03:00"
 description: |
   <https://dave.cheney.net/high-performance-go-workshop/gophercon-2019.html>
-id: u5vt96nyjexwz0ct20omajb
+id: nq5saqkn54bs33c47b0tnix
 publish: true
 tags:
 - source/book

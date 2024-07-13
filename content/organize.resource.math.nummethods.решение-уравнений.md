@@ -2,7 +2,7 @@
 date: "2024-05-03T12:08:42+03:00"
 description: |
   решение уравнений вида f(x)=0
-id: oiy3n17slmj3khcgx6wo917
+id: udoryt0as0mp7afm3g3i9ig
 publish: true
 title: Решение Уравнений
 updated: 1714728771227
