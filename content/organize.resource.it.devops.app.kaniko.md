@@ -5,7 +5,9 @@ description: |
 id: 622bghcrlzdcpiq8j09z8le
 publish: true
 title: Kaniko
-updated: 1714725532275
+updated: 1727531343282
 ---
 
-<https://github.com/GoogleContainerTools/kaniko> - Инструмент для сборки Docker образов без необходимости устанавливать Docker engine
+<https://github.com/GoogleContainerTools/kaniko> - Инструмент для сборки Docker образов без необходимости устанавливать Docker engine.
+
+Главная идея сделать билд максимально безопасным, отличие от `docker build` в том, что kaniko не требует рут прав для билда образов.

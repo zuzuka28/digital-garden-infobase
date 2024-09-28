@@ -7,14 +7,17 @@ publish: true
 tags:
 - math/statistics
 title: Z Score
-updated: 1716130234737
+updated: 1727018506337
 ---
 
 Z-Score - статистичекая оценка, описывающая отклонение значение от нормали из группы. 
 
+Используется для выявления [[organize.resource.data-mining.outlier|outlier]]
+
 Формула:
 
-$$z = ( x - μ ) / σ$$
+$$z = ( x - \mu ) / \sigma$$
+
 - $z$ = Z-score;
 - $x$ = the value being evaluated
 - $\mu$ = the mean

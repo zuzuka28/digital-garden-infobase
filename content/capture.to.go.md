@@ -5,7 +5,7 @@ description: |
 id: q89zv4sn7yg912divlgnj5u
 publish: true
 title: Go
-updated: 1720787305390
+updated: 1721552483138
 ---
 
 ## Рестораны Москва
@@ -47,3 +47,5 @@ updated: 1720787305390
 #source/location Кинотеатр Сатурн Свиблово
 
 #source/location Бильярд-клуб 15 Шар
+
+#source/location антикафе Квартира №7 

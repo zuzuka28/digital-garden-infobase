@@ -4,10 +4,14 @@ description: ""
 id: w1t9wmlgt3y4bpsp4zgolj0
 publish: true
 title: Obfuscate Filetree
-updated: 1716047224295
+updated: 1722678971892
 ---
 
 [[organize.resource.it.lang.shell|shell]] скрипт для обсускации файловой иерархии
+
+Пример использования 
+
+---
 
 ```bash
 #!/usr/bin/env bash
@@ -28,6 +32,38 @@ function obfuscate_secret() {
   sourceSecret=$1
   obfuscatedSecret=$(echo -n "$sourceSecret" | eval "$hash256func" | cut -d' ' -f1)
   echo "secret-${obfuscatedSecret}"
+}
+
+#######################################
+# decript_secrets_index - decript secrets index
+# Globals:
+#   secrets_index_file
+# Outputs:
+#   decript secrets index
+#######################################
+function decript_secrets_index () {
+  if ! [ -f "$secrets_index_file" ]; then
+    return
+  fi
+
+  age -d -i "$identities" "$secrets_index_file" > "$secrets_root_dir/tmp" \
+    && mv "$secrets_root_dir/tmp" "$secrets_index_file"
+}
+
+#######################################
+# encript_secrets_index - encript secrets index
+# Globals:
+#   secrets_index_file
+# Outputs:
+#   encript  secrets index
+#######################################
+function encript_secrets_index () {
+  if ! [ -f "$secrets_index_file" ]; then
+    return
+  fi
+
+  age -e -r "$(cat "$recipiens")" "$secrets_index_file" > "$secrets_root_dir/tmp" \
+    && mv "$secrets_root_dir/tmp" "$secrets_index_file"
 }
 
 #######################################
@@ -141,6 +177,11 @@ if ! [ -x "$(command -v jq)" ]; then
   exit 1
 fi
 
+if ! [ -x "$(command -v age)" ]; then
+  echo 'Error: age is not installed.' >&2
+  exit 1
+fi
+
 if [[ "$OSTYPE" == "linux-gnu"* | "$OSTYPE" == "linux gnu"* ]]; then
   hash256func=sha256sum
 elif [[ "$OSTYPE" == "darwin"* | "$OSTYPE" == "darwin"* ]]; then
@@ -152,6 +193,9 @@ secrets_index_file=""
 action=""
 action_encript="encript"
 action_decript="decript"
+
+recipiens="$HOME/.local/share/gopass/stores/root/.age-recipients"
+identities="$HOME/.config/gopass/age/identities"
 
 while getopts ":edi:r:" option; do
   case $option in
@@ -204,10 +248,12 @@ if [ "$action" = "$action_encript" ]; then
   unset_unused_secrets_from_index
   obfuscate_secrets_vault
   save_secrets_index
+  encript_secrets_index
 fi
 
 
 if [ "$action" = "$action_decript" ]; then
+  decript_secrets_index
   load_secrets_index
   unset_unused_secrets_from_index
   build_secrets_tree

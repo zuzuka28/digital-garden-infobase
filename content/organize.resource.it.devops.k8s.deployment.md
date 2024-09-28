@@ -4,12 +4,12 @@ description: ""
 id: 0p1l3vds22ogkldzocmfz6a
 publish: true
 title: Deployment
-updated: 1719315965370
+updated: 1725803239842
 ---
 
 <https://kubernetes.io/docs/concepts/workloads/controllers/deployment/>
 
-Деплойменты - способ управления наборами подов.
+Деплоймент - контроллер, который управляет состоянием развертывания [[organize.resource.it.devops.k8s.pod|pod]], которое описывается в манифесте, следит за удалением и созданием экземпляров подов. Управляет контроллерами [[organize.resource.it.devops.k8s.replica-set|ReplicaSet]].
 
 ```yaml
 apiVersion: apps/v1

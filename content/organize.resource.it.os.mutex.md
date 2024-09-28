@@ -4,10 +4,12 @@ description: ""
 id: 6iuvctu2ebetybn6zcf226v
 publish: true
 title: Mutex
-updated: 1719946751035
+updated: 1722584996764
 ---
 
 <https://www.youtube.com/watch?v=KNHNqp1e9u8&list=PL4_hYwCyhAvalRjpPlvaCYPpPE8TL-fn3&index=1>
+
+<https://deadlockempire.github.io> - прикольная игрушка про блокировки.
 
 MUTual EXclusion - взаимное  исключение.
 

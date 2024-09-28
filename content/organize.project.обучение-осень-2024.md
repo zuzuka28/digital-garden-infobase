@@ -1,23 +1,23 @@
 ---
-date: "2024-06-26T14:19:51+03:00"
+date: "2024-09-01T12:30:01+03:00"
 description: ""
-id: 1to8sr9g65e41fii19svuxv
+id: k49fh2vb76uqoi11dbou1h0
 publish: true
-title: Обучение Лето 2024
-updated: 1720601673523
+title: Обучение Осень 2024
+updated: 1725183771203
 ---
 
 ## Цель
 
 <!-- Зачем реализовывать данный проект? -->
 
-Хочу подтянуть знания, освежить в памяти основы.
+Обучение никогда не должно прекращаться. 
 
 ## Контекст
 
 <!-- Откуда пришла идея реализовать данный проект? -->
 
-Это одна из целей, обозначенных в [[organize.area.me.goals.2024.06.25|25]]
+Идейное продолжение [[organize.archive.project.обучение-лето-2024|обучение лето 2024]].
 
 ## Критерий успеха
 
@@ -33,30 +33,15 @@ updated: 1720601673523
 
 <!-- Список артефактов созданных в результате проекта -->
 
-- [[organize.resource.it.network|network]]
-- [[organize.resource.it.lang.golang.scheduler|scheduler]]
-- [[organize.resource.it.os.mutex|mutex]]
-- [[organize.resource.it.os.thread|thread]]
-- [[organize.resource.it.concurrency.hashtable|hashtable]]
-- [[organize.resource.it.concurrency.cache-coherence|cache coherence]]
-
 ## Задачи
 
 <!-- Список задач, которые необходимо выполнить для проекта -->
-
-- [x] Освежить информацию про сети и протоколы
-- [x] Как работают каналы в golang
-  - видос из [[organize.resource.it.lang.golang.to|to]]
-- [x] Как работает планировщик в golang
-  - видос из [[organize.resource.it.lang.golang.to|to]]
 
 ## Заметки
 
 <!-- Любые заметки связанные с проектом -->
 
-<https://gitlab.com/Lipovsky/awesome-concurrency>
-
-<https://os.phil-opp.com/async-await/>
+Есть много тем, которые я не успел разобрать в летнем треке, поэтому я продолжу изучать темы, которые были собраны в [[organize.archive.project.обучение-лето-2024.golang-concurrency|golang concurrency]].
 
 ## Обзор
 

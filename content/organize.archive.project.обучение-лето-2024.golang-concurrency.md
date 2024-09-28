@@ -4,7 +4,7 @@ description: ""
 id: xdvevj3r5gxo54gvfjnv2dy
 publish: true
 title: Golang Concurrency
-updated: 1720601609553
+updated: 1725183134435
 ---
 
 - [ ] Векторизация
@@ -16,7 +16,7 @@ updated: 1720601609553
 
 - [x] когерентность кэша (MESI)
 - [x] false sharing
-- [ ] store bufer
+- [x] store bufer
 - [ ] invalidation queue
 
 
@@ -36,11 +36,11 @@ updated: 1720601609553
 - [ ] многоуровневая очередь
 
 
-- [ ] Кооперативная и вытесняющая многозадачность
-- [ ] Процессы и потоки
-- [ ] Context switching
-- [ ] Hyper-threading
-- [ ] Сопрограммы – stackfull, stackless
+- [x] Кооперативная и вытесняющая многозадачность
+- [x] Процессы и потоки
+- [x] Context switching
+- [x] Hyper-threading
+- [/] Сопрограммы – stackfull, stackless
 
 Внутреннее устройство горутины
 
@@ -66,10 +66,10 @@ updated: 1720601609553
 
 Проблемы конкурентного программирования
 
-- [ ] deadlock
-- [ ] livelock
-- [ ] data race
-- [ ] starvation
+- [x] deadlock
+- [x] livelock
+- [x] data race
+- [x] starvation
 - [ ] инверсия приоритетов
 
 
@@ -103,13 +103,13 @@ updated: 1720601609553
 
 Каналы
 
-- [ ] Однонаправленные каналы
-- [ ] Внутреннее устройство каналов
-- [ ] Буферизованные и небуферизованные каналы
-- [ ] Share memory by communicating
-- [ ] Producer and consumer
+- [x] Однонаправленные каналы
+- [x] Внутреннее устройство каналов
+- [x] Буферизованные и небуферизованные каналы
+- [x] Share memory by communicating
+- [x] Producer and consumer
 - [ ] Gracefull Shutdown
-- [ ] Утечки горутин
+- [x] Утечки горутин
 
 Паттерны использования каналов
 

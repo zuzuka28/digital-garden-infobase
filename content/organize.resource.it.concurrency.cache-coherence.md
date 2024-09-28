@@ -4,10 +4,11 @@ description: ""
 id: 5m93nh8xyl0hzz36i7hc2n4
 publish: true
 title: Cache Coherence
-updated: 1720601805371
+updated: 1722683716985
 ---
 
 <https://www.youtube.com/watch?v=lerIrAMzjWA>
+
 <https://stackoverflow.com/questions/30684974/are-cache-line-ping-pong-and-false-sharing-the-same>
 
 - shared memory
@@ -41,6 +42,7 @@ updated: 1720601805371
      - E - exclusive
        - переход в Modified только из этого состояния
        - переход в это состояние, когда все остальные не имеют значения в локальном кэше
+     - <https://www.scss.tcd.ie/Jeremy.Jones/VivioJS/caches/MESIHelp.htm>
 
 - задача - сделать масштабируемый счетчик для конкурентного доступа
   - использовать fetch add
