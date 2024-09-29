@@ -4,7 +4,7 @@ description: ""
 id: 8nrz4spinaeo5317xot4w74
 publish: true
 title: Linear Regression
-updated: 1727622124674
+updated: 1727626133774
 ---
 
 <https://ru.wikipedia.org/wiki/Метод_наименьших_квадратов>
@@ -104,7 +104,7 @@ $$\nabla MSE = -\frac{2}{n}X^T(Y-X@A)$$
 
 $$A_{начальные} = случайные числа.$$
 
-$$A^{(t+1)} = A^{(t)} - \nabla(A^{(t)}) + \alpha$$
+$$A^{(t+1)} = A^{(t)} - \nabla{MSE(A^{(t)})} + \alpha$$
 
 Еще формулы
 
